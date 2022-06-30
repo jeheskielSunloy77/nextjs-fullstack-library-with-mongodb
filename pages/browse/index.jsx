@@ -10,6 +10,6 @@ export default function () {
 		</>
 	)
 }
-export async function getStaticProps() {
-	//fetch data for latest release and per category
-}
+// export async function getStaticProps() {
+// 	//fetch data for latest release and per category
+// }

@@ -1,5 +1,5 @@
 import dbConnect from "../../../services/dbConnect"
-import BookSchema from "../../../models/book"
+import BookSchema from "../../../models/books"
 
 dbConnect()
 
